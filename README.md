@@ -32,3 +32,5 @@
 - Cygwin64Terminal 
 - Figma
 
+ ## Контакты: 
+ Телефон: +7 (927) 7528330 E-mail: kudryavtseva.kate00@mail.ru Telegram: https://t.me/felixfe1icis
