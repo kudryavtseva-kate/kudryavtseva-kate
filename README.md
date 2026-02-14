@@ -26,7 +26,7 @@
 - Работа по тест-кейсам и чек-листам  
 - SQL (проверка данных в БД)
 - Charles
-- -Android Studio 
+- Android Studio 
 - DevTools
 - apiDoc
 - Cygwin64Terminal 
